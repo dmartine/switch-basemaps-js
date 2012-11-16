@@ -4,7 +4,7 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 
 ![App](http://edn1.esri.com/quickstartjs/snapshot.png) 
 
-[View live app here](http://edn1.esri.com/quickstartjs/demo/landingpage.html)
+[View live app here](http://edn1.esri.com/sandbox/sandbox.html?sample=basemaps)
 
 * Esri: [@esri](http://twitter.com/esri)
 * Blog: [ArcGIS](http://blogs.esri.com/esri/arcgis/)
@@ -12,6 +12,7 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 ## Features
 * Illustrates how to change basemaps
 * Use dojo BasemapGallery digit to make things easy
+* Edit HTML and JS code live!
 
 ## Instructions
 
