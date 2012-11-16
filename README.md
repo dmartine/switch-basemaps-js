@@ -4,7 +4,7 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 
 [View live app here](http://edn1.esri.com/samples/basemaps/)
 
-![App](https://github.com/Esri/switch-basemaps-js/blob/master/switch-basemaps-js.png) 
+![App](https://raw.github.com/Esri/switch-basemaps-js/master/switch-basemaps-js.png) 
 
 ## Features
 * Illustrates how to change basemaps
