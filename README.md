@@ -28,8 +28,8 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 * [ArcGIS for JavaScript API Reference](http://help.arcgis.com/en/webapi/javascript/arcgis/help/jsapi_start.htm)
 * [ArcGIS for JavaScript API Samples](http://help.arcgis.com/en/webapi/javascript/arcgis/help/jssamples_start.htm)
 * [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
-* Esri: [@esri](http://twitter.com/esri)
-* Blog: [ArcGIS](http://blogs.esri.com/esri/arcgis/)
+* [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
+* [twitter@esri](http://twitter.com/esri)
 
 ## Issues
 
