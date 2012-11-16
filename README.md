@@ -8,7 +8,7 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 
 ## Features
 * Illustrates how to change basemaps
-* Many basemap types: Streets, Satellite, Topography, Oceans, Gray...
+* Many basemaps to choose from: Streets, Satellite, Topography, Oceans, Gray...
 * Use the dojo BasemapGallery digit to make things easy
 
 ## Instructions
@@ -25,8 +25,6 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 
 ## Resources
 
-* [ArcGIS for JavaScript API Reference](http://help.arcgis.com/en/webapi/javascript/arcgis/help/jsapi_start.htm)
-* [ArcGIS for JavaScript API Samples](http://help.arcgis.com/en/webapi/javascript/arcgis/help/jssamples_start.htm)
 * [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 * [twitter@esri](http://twitter.com/esri)
@@ -40,5 +38,18 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Anyone and everyone is welcome to contribute. 
 
 ## Licensing
-Copyright (c) 2012 Esri. All Rights Reserved.
-Released under Apache License Version 2.0, January 2004
+Copyright 2012 Esri
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+A copy of the license is available in the repository's [license.txt](https://github.com/Esri/park-and-recreation-finder/blob/master/license.txt) file.
