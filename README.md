@@ -8,8 +8,8 @@ This is an Esri ArcGIS Javascript sample that illustrates how to change your map
 
 ## Features
 * Illustrates how to change basemaps
-* Use dojo BasemapGallery digit to make things easy
-* Edit HTML and JS code live!
+* Many basemap types: Streets, Satellite, Topography, Oceans, Gray...
+* Use the dojo BasemapGallery digit to make things easy
 
 ## Instructions
 
