@@ -2,7 +2,7 @@
 
 This is an ArcGIS Javascript sample that illustrates how to change your map's basemap.  There are over 12 ArcGIS Online basemaps to choose from. Learn more about basemaps [here](http://www.arcgis.com/home/search.html?q=basemaps&t=content).
 
-[View live app here](http://edn1.esri.com/samples/basemaps/)
+[View it live](http://edn1.esri.com/samples/basemaps/)
 
 ![App](https://raw.github.com/Esri/switch-basemaps-js/master/switch-basemaps-js.png) 
 
@@ -16,6 +16,8 @@ This is an ArcGIS Javascript sample that illustrates how to change your map's ba
 1. Download and unzip the .zip file.
 2. Web-enable the directory or copy/paste the source to your own .html file.
 3. Access the .html page.
+
+* [New to Github? Get started here.](https://github.com/)
 
 ## Requirements
 
