@@ -13,7 +13,7 @@ This is an ArcGIS Javascript sample that illustrates how to change your map's ba
 
 ## Instructions
 
-1. Download and unzip the .zip file.
+1. Download and unzip the .zip file or clone the repo.
 2. Web-enable the directory or copy/paste the source to your own .html file.
 3. Access the .html page.
 
