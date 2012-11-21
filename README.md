@@ -1,6 +1,6 @@
 # switch-basemaps-js
 
-This is an Esri ArcGIS Javascript sample that illustrates how to change your map's basemap.  There are over 12 ArcGIS Online basemaps to choose from. Learn more about basemaps [here](http://www.arcgis.com/home/search.html?q=basemaps&t=content).
+This is an ArcGIS Javascript sample that illustrates how to change your map's basemap.  There are over 12 ArcGIS Online basemaps to choose from. Learn more about basemaps [here](http://www.arcgis.com/home/search.html?q=basemaps&t=content).
 
 [View live app here](http://edn1.esri.com/samples/basemaps/)
 
